@@ -2,7 +2,7 @@
 #include <fstream>
 #include <string>
 
-#include "tokenizer/tokenizer.cpp"
+#include "tokenizer.cpp"
 
 int main() {
 
