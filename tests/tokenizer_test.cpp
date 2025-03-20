@@ -8,7 +8,7 @@ int main() {
 
     Tokenizer tokenizer;
 
-    ifstream file("./tests/test.program");
+    ifstream file("./tests/test.tg");
     if(!file.is_open()) {
         cerr << "Failed to open file!" << endl;
         return -1;
